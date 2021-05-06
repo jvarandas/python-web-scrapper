@@ -1,7 +1,7 @@
 # Data Scrapper
 
 ## Problem
-We are building a database of images for the most visited websites worldwide. This program receuves a file containing website urls then it visits and fetch the images from,
+This program receuves a file containing website urls then it visits and fetch the images from,
 finally the program stores the image links on an output file.
 
 
