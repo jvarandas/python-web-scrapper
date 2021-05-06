@@ -1,6 +1,6 @@
 # Data Scrapper
 
-## Problem
+## Program
 This program receives a file containing website urls that it visits and fetch the images from,
 finally the program stores the image links on an output file.
 
